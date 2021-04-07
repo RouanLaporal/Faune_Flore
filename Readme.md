@@ -6,6 +6,6 @@ Faune_Flore is a class [project](http://rouanito.pythonanywhere.com/) developped
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Django.
 
 ```bash
-pip install django
+pip install -r requirements.txt
 ```
 
