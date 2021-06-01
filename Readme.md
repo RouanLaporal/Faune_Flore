@@ -9,7 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Django.
 pip install -r requirements.txt
 ```
 
-##Aperçu
+## Aperçu
 
 http://rouanito.pythonanywhere.com
 
